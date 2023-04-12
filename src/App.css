@@ -1,0 +1,17 @@
+.months_container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 5px;
+}
+
+.main_container{
+    display: flex;
+    width: 80%;
+    height: 50%;
+    border: 1px solid red;
+}
+
+.student_name_container{
+    border: 1px solid black;
+}

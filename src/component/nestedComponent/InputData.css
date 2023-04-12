@@ -1,0 +1,15 @@
+.main_container{
+    width: 100%;
+    /* border: 1px solid black; */
+    display: flex;
+    flex-direction: column;
+}
+.userDetails{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}
+
+.Input{
+    width: 15rem;
+}

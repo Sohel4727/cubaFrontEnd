@@ -1,0 +1,21 @@
+.fab_container {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.active_btn {
+    background: #51BB25;
+    border-radius: 4px;
+
+    height: 1.5rem;
+    width: 4rem;
+    font-size: small;
+}
+
+.edit_btn {
+    background-color: yellow;
+    height: 1.5rem;
+    width: 4rem;
+    font-size: small;
+}

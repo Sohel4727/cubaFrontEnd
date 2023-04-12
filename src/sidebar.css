@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.side_main_container{
+    width: 149px;
+    height: 100vh;
+    background-color: #712AA9;
+}
+.sidebar_flex_container{
+    display: flex;
+    border: 1px solid #000;
+}
+
